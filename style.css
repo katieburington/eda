@@ -1,0 +1,36 @@
+body {
+  background-color: #4d2d73;   
+}
+h1{
+  Color: white;
+  font-size: 50px; 
+  font-family: Arial, helvetica, sans-serif; 
+}
+
+ol{
+  Color:white;
+}
+.eda{
+  color: white;
+  Font-size: 22px;
+  font-family: arial, helvetica, sans-serfi;
+  
+  
+}
+p{
+  font-size: 12px;
+}
+
+.blaineishighmaintenence{
+  border: 10px solid navy;
+  padding-left: 25px;
+  padding-right: 10px;
+  
+  
+}
+
+.katieisthebest{
+  background-color:white;
+ 
+}
+
